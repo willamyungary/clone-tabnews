@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///home/willamy/Documentos/GitHub/clone-tabnews/pages/index.js"],"sourcesContent":["function Home(){\n    return (\n        <>\n            <h1>Lana Meu Amor ❤️</h1>\n            <p>Cada dia ao seu lado é um presente que transforma a minha vida. Seu sorriso ilumina meus dias e seu carinho é meu porto seguro. Te amo hoje, amanhã e para todo o sempre! ✨</p>\n        </>\n    )\n}\n\nexport default Home;"],"names":["Home"],"mappings":";;;;;;AAAA,SAASA;IACL,qBACI;;0BACI,qKAAC;0BAAG;;;;;;0BACJ,qKAAC;0BAAE;;;;;;;;;;;;AAGf;uCAEeA"}}]
+}
