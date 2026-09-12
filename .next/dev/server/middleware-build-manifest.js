@@ -1,16 +1,16 @@
 globalThis.__BUILD_MANIFEST = {
   "pages": {
     "/": [
-      "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
+      "static/chunks/node_modules_next_dist_compiled_0lyf85n._.js",
       "static/chunks/node_modules_next_dist_shared_lib_1vsvqbg._.js",
       "static/chunks/node_modules_next_dist_client_16lnmlo._.js",
       "static/chunks/node_modules_next_dist_0zk-zb1._.js",
       "static/chunks/node_modules_next_head_0wi9zur.js",
       "static/chunks/node_modules_react-dom_0kla17-._.js",
-      "static/chunks/node_modules_1z0m79v._.js",
+      "static/chunks/node_modules_1o4479e._.js",
       "static/chunks/[root-of-the-server]__0drlkvz._.js",
       "static/chunks/pages_index_0du2_q-._.js",
-      "static/chunks/turbopack-pages_index_08b699l._.js"
+      "static/chunks/turbopack-pages_index_1106rtj._.js"
     ],
     "/_app": [
       "static/chunks/node_modules_next_dist_compiled_14ibvna._.js",
