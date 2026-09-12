@@ -34,9 +34,10 @@ function Home() {
                                 <small>Adicione aqui<br />a foto da nossa família</small>
                             </div>
                             <img
-                                src="/familia.jpg"
+                                src="/família.jpg"
                                 alt="Nossa família reunida"
                                 onError={(event) => {
+                                    event.currentTarget.previousElementSibling.style.display = "grid";
                                     event.currentTarget.style.display = "none";
                                 }}
                             />
@@ -180,14 +181,15 @@ function Home() {
                 .photo-frame img {
                     display: block;
                     width: 100%;
+                    height: auto;
                     aspect-ratio: 4 / 5;
                     object-fit: cover;
                     background: #ead6cb;
                 }
 
                 .photo-placeholder {
+                    display: none;
                     aspect-ratio: 4 / 5;
-                    display: grid;
                     place-items: center;
                     align-content: center;
                     gap: 12px;

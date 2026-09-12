@@ -42,7 +42,7 @@ function Home() {
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("title", {
-                        className: "jsx-a259b9c97e8e22a8",
+                        className: "jsx-a2e24467c2d6307d",
                         children: "Lana, amor da minha vida"
                     }, void 0, false, {
                         fileName: "[project]/pages/index.js",
@@ -52,7 +52,7 @@ function Home() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
                         rel: "icon",
                         href: "/favicon.svg",
-                        className: "jsx-a259b9c97e8e22a8"
+                        className: "jsx-a2e24467c2d6307d"
                     }, void 0, false, {
                         fileName: "[project]/pages/index.js",
                         lineNumber: 8,
@@ -65,16 +65,16 @@ function Home() {
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
-                className: "jsx-a259b9c97e8e22a8" + " " + "page-shell",
+                className: "jsx-a2e24467c2d6307d" + " " + "page-shell",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                     "aria-labelledby": "page-title",
-                    className: "jsx-a259b9c97e8e22a8" + " " + "love-letter",
+                    className: "jsx-a2e24467c2d6307d" + " " + "love-letter",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-a259b9c97e8e22a8" + " " + "letter-copy",
+                            className: "jsx-a2e24467c2d6307d" + " " + "letter-copy",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-a259b9c97e8e22a8" + " " + "eyebrow",
+                                    className: "jsx-a2e24467c2d6307d" + " " + "eyebrow",
                                     children: "Para o amor da minha vida"
                                 }, void 0, false, {
                                     fileName: "[project]/pages/index.js",
@@ -83,18 +83,18 @@ function Home() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                     id: "page-title",
-                                    className: "jsx-a259b9c97e8e22a8",
+                                    className: "jsx-a2e24467c2d6307d",
                                     children: [
                                         "Lana,",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {
-                                            className: "jsx-a259b9c97e8e22a8"
+                                            className: "jsx-a2e24467c2d6307d"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/index.js",
                                             lineNumber: 15,
                                             columnNumber: 50
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
-                                            className: "jsx-a259b9c97e8e22a8",
+                                            className: "jsx-a2e24467c2d6307d",
                                             children: "minha eterna escolha."
                                         }, void 0, false, {
                                             fileName: "[project]/pages/index.js",
@@ -109,9 +109,9 @@ function Home() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     "aria-hidden": "true",
-                                    className: "jsx-a259b9c97e8e22a8" + " " + "divider",
+                                    className: "jsx-a2e24467c2d6307d" + " " + "divider",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "jsx-a259b9c97e8e22a8",
+                                        className: "jsx-a2e24467c2d6307d",
                                         children: "♥"
                                     }, void 0, false, {
                                         fileName: "[project]/pages/index.js",
@@ -124,11 +124,11 @@ function Home() {
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-a259b9c97e8e22a8" + " " + "message",
+                                    className: "jsx-a2e24467c2d6307d" + " " + "message",
                                     children: [
                                         "Em ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            className: "jsx-a259b9c97e8e22a8",
+                                            className: "jsx-a2e24467c2d6307d",
                                             children: "11 de setembro de 2026"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/index.js",
@@ -137,7 +137,7 @@ function Home() {
                                         }, this),
                                         ", nós completamos",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            className: "jsx-a259b9c97e8e22a8",
+                                            className: "jsx-a2e24467c2d6307d",
                                             children: " 26 anos de casamento"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/index.js",
@@ -152,7 +152,7 @@ function Home() {
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-a259b9c97e8e22a8" + " " + "message",
+                                    className: "jsx-a2e24467c2d6307d" + " " + "message",
                                     children: "Quando olho para trás e vejo tudo o que já enfrentamos, lembro dos momentos bons, dos difíceis, dos felizes e dos tristes. Em todos eles, o Senhor nos sustentou e nos guiou."
                                 }, void 0, false, {
                                     fileName: "[project]/pages/index.js",
@@ -160,7 +160,7 @@ function Home() {
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-a259b9c97e8e22a8" + " " + "signature",
+                                    className: "jsx-a2e24467c2d6307d" + " " + "signature",
                                     children: "Amo você de todo o meu amor e coração."
                                 }, void 0, false, {
                                     fileName: "[project]/pages/index.js",
@@ -168,7 +168,7 @@ function Home() {
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-a259b9c97e8e22a8" + " " + "date",
+                                    className: "jsx-a2e24467c2d6307d" + " " + "date",
                                     children: "11 · 09 · 2026"
                                 }, void 0, false, {
                                     fileName: "[project]/pages/index.js",
@@ -182,16 +182,16 @@ function Home() {
                             columnNumber: 21
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                            className: "jsx-a259b9c97e8e22a8" + " " + "family-photo-wrap",
+                            className: "jsx-a2e24467c2d6307d" + " " + "family-photo-wrap",
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "jsx-a259b9c97e8e22a8" + " " + "photo-frame",
+                                    className: "jsx-a2e24467c2d6307d" + " " + "photo-frame",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "jsx-a259b9c97e8e22a8" + " " + "photo-placeholder",
+                                            className: "jsx-a2e24467c2d6307d" + " " + "photo-placeholder",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "jsx-a259b9c97e8e22a8",
+                                                    className: "jsx-a2e24467c2d6307d",
                                                     children: "♥"
                                                 }, void 0, false, {
                                                     fileName: "[project]/pages/index.js",
@@ -199,11 +199,11 @@ function Home() {
                                                     columnNumber: 33
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
-                                                    className: "jsx-a259b9c97e8e22a8",
+                                                    className: "jsx-a2e24467c2d6307d",
                                                     children: [
                                                         "Adicione aqui",
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {
-                                                            className: "jsx-a259b9c97e8e22a8"
+                                                            className: "jsx-a2e24467c2d6307d"
                                                         }, void 0, false, {
                                                             fileName: "[project]/pages/index.js",
                                                             lineNumber: 34,
@@ -223,12 +223,13 @@ function Home() {
                                             columnNumber: 29
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                            src: "/familia.jpg",
+                                            src: "/família.jpg",
                                             alt: "Nossa família reunida",
                                             onError: (event)=>{
+                                                event.currentTarget.previousElementSibling.style.display = "grid";
                                                 event.currentTarget.style.display = "none";
                                             },
-                                            className: "jsx-a259b9c97e8e22a8"
+                                            className: "jsx-a2e24467c2d6307d"
                                         }, void 0, false, {
                                             fileName: "[project]/pages/index.js",
                                             lineNumber: 36,
@@ -241,11 +242,11 @@ function Home() {
                                     columnNumber: 25
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    className: "jsx-a259b9c97e8e22a8" + " " + "photo-caption",
+                                    className: "jsx-a2e24467c2d6307d" + " " + "photo-caption",
                                     children: "Nossa história, nosso lar."
                                 }, void 0, false, {
                                     fileName: "[project]/pages/index.js",
-                                    lineNumber: 44,
+                                    lineNumber: 45,
                                     columnNumber: 25
                                 }, this)
                             ]
@@ -266,8 +267,8 @@ function Home() {
                 columnNumber: 13
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                id: "a259b9c97e8e22a8",
-                children: '@import "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&display=swap";*{box-sizing:border-box}body{color:#392b2d;background:#f6efe7;margin:0;font-family:DM Sans,sans-serif}.page-shell.jsx-a259b9c97e8e22a8{background:radial-gradient(circle at 10% 15%,#db8b8333,#0000 25%),radial-gradient(circle at 90% 85%,#dcb26f33,#0000 28%),#f6efe7;place-items:center;min-height:100vh;padding:48px 24px;display:grid}.love-letter.jsx-a259b9c97e8e22a8{background:#fffaf5;border:1px solid #814e4629;grid-template-columns:minmax(0,1fr) minmax(300px,.8fr);align-items:center;gap:max(38px,min(7vw,96px));width:min(100%,1040px);padding:max(32px,min(7vw,86px));display:grid;position:relative;overflow:hidden;box-shadow:0 28px 70px #673d3621}.love-letter.jsx-a259b9c97e8e22a8:before{content:"";border:1px solid #c9746b33;border-radius:50%;width:210px;height:210px;position:absolute;top:-90px;right:-90px}.eyebrow.jsx-a259b9c97e8e22a8,.date.jsx-a259b9c97e8e22a8,.photo-caption.jsx-a259b9c97e8e22a8{color:#b36561;text-transform:uppercase;letter-spacing:.18em;font-size:11px;font-weight:700}.eyebrow.jsx-a259b9c97e8e22a8{margin:0 0 22px}h1.jsx-a259b9c97e8e22a8{color:#6c383c;letter-spacing:0;margin:0;font-family:Playfair Display,serif;font-size:max(44px,min(6vw,76px));font-weight:500;line-height:.98}h1.jsx-a259b9c97e8e22a8 em.jsx-a259b9c97e8e22a8{color:#c4776d;font-size:.7em;font-weight:500}.divider.jsx-a259b9c97e8e22a8{color:#d18a7c;align-items:center;gap:14px;margin:30px 0 26px;display:flex}.divider.jsx-a259b9c97e8e22a8:before,.divider.jsx-a259b9c97e8e22a8:after{content:"";background:#e5c5ba;width:56px;height:1px}.message.jsx-a259b9c97e8e22a8{color:#665253;max-width:520px;margin:0 0 16px;font-size:16px;line-height:1.75}.message.jsx-a259b9c97e8e22a8 strong.jsx-a259b9c97e8e22a8{color:#81484a;font-weight:700}.signature.jsx-a259b9c97e8e22a8{color:#81484a;margin:28px 0 0;font-family:Playfair Display,serif;font-size:23px;font-style:italic}.date.jsx-a259b9c97e8e22a8{margin:22px 0 0}.family-photo-wrap.jsx-a259b9c97e8e22a8{justify-self:center;width:min(100%,350px);position:relative}.photo-frame.jsx-a259b9c97e8e22a8{background:#fff;padding:12px 12px 42px;transform:rotate(3deg);box-shadow:0 18px 35px #673d3633}.photo-frame.jsx-a259b9c97e8e22a8 img.jsx-a259b9c97e8e22a8{aspect-ratio:4/5;object-fit:cover;background:#ead6cb;width:100%;display:block}.photo-placeholder.jsx-a259b9c97e8e22a8{aspect-ratio:4/5;color:#9b5e5d;text-align:center;background:#ead6cb;align-content:center;place-items:center;gap:12px;display:grid}.photo-placeholder.jsx-a259b9c97e8e22a8 span.jsx-a259b9c97e8e22a8{font-size:34px}.photo-placeholder.jsx-a259b9c97e8e22a8 small.jsx-a259b9c97e8e22a8{font-family:Playfair Display,serif;font-size:18px;font-style:italic;line-height:1.25}.photo-caption.jsx-a259b9c97e8e22a8{z-index:1;color:#8c5b58;text-align:center;letter-spacing:.1em;margin:0;position:absolute;bottom:15px;left:0;right:0}@media (width<=720px){.page-shell.jsx-a259b9c97e8e22a8{padding:20px 14px}.love-letter.jsx-a259b9c97e8e22a8{grid-template-columns:1fr;gap:44px;padding:40px 24px 48px}.family-photo-wrap.jsx-a259b9c97e8e22a8{width:min(88%,320px)}}'
+                id: "a2e24467c2d6307d",
+                children: '@import "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&display=swap";*{box-sizing:border-box}body{color:#392b2d;background:#f6efe7;margin:0;font-family:DM Sans,sans-serif}.page-shell.jsx-a2e24467c2d6307d{background:radial-gradient(circle at 10% 15%,#db8b8333,#0000 25%),radial-gradient(circle at 90% 85%,#dcb26f33,#0000 28%),#f6efe7;place-items:center;min-height:100vh;padding:48px 24px;display:grid}.love-letter.jsx-a2e24467c2d6307d{background:#fffaf5;border:1px solid #814e4629;grid-template-columns:minmax(0,1fr) minmax(300px,.8fr);align-items:center;gap:max(38px,min(7vw,96px));width:min(100%,1040px);padding:max(32px,min(7vw,86px));display:grid;position:relative;overflow:hidden;box-shadow:0 28px 70px #673d3621}.love-letter.jsx-a2e24467c2d6307d:before{content:"";border:1px solid #c9746b33;border-radius:50%;width:210px;height:210px;position:absolute;top:-90px;right:-90px}.eyebrow.jsx-a2e24467c2d6307d,.date.jsx-a2e24467c2d6307d,.photo-caption.jsx-a2e24467c2d6307d{color:#b36561;text-transform:uppercase;letter-spacing:.18em;font-size:11px;font-weight:700}.eyebrow.jsx-a2e24467c2d6307d{margin:0 0 22px}h1.jsx-a2e24467c2d6307d{color:#6c383c;letter-spacing:0;margin:0;font-family:Playfair Display,serif;font-size:max(44px,min(6vw,76px));font-weight:500;line-height:.98}h1.jsx-a2e24467c2d6307d em.jsx-a2e24467c2d6307d{color:#c4776d;font-size:.7em;font-weight:500}.divider.jsx-a2e24467c2d6307d{color:#d18a7c;align-items:center;gap:14px;margin:30px 0 26px;display:flex}.divider.jsx-a2e24467c2d6307d:before,.divider.jsx-a2e24467c2d6307d:after{content:"";background:#e5c5ba;width:56px;height:1px}.message.jsx-a2e24467c2d6307d{color:#665253;max-width:520px;margin:0 0 16px;font-size:16px;line-height:1.75}.message.jsx-a2e24467c2d6307d strong.jsx-a2e24467c2d6307d{color:#81484a;font-weight:700}.signature.jsx-a2e24467c2d6307d{color:#81484a;margin:28px 0 0;font-family:Playfair Display,serif;font-size:23px;font-style:italic}.date.jsx-a2e24467c2d6307d{margin:22px 0 0}.family-photo-wrap.jsx-a2e24467c2d6307d{justify-self:center;width:min(100%,350px);position:relative}.photo-frame.jsx-a2e24467c2d6307d{background:#fff;padding:12px 12px 42px;transform:rotate(3deg);box-shadow:0 18px 35px #673d3633}.photo-frame.jsx-a2e24467c2d6307d img.jsx-a2e24467c2d6307d{aspect-ratio:4/5;object-fit:cover;background:#ead6cb;width:100%;height:auto;display:block}.photo-placeholder.jsx-a2e24467c2d6307d{aspect-ratio:4/5;color:#9b5e5d;text-align:center;background:#ead6cb;align-content:center;place-items:center;gap:12px;display:none}.photo-placeholder.jsx-a2e24467c2d6307d span.jsx-a2e24467c2d6307d{font-size:34px}.photo-placeholder.jsx-a2e24467c2d6307d small.jsx-a2e24467c2d6307d{font-family:Playfair Display,serif;font-size:18px;font-style:italic;line-height:1.25}.photo-caption.jsx-a2e24467c2d6307d{z-index:1;color:#8c5b58;text-align:center;letter-spacing:.1em;margin:0;position:absolute;bottom:15px;left:0;right:0}@media (width<=720px){.page-shell.jsx-a2e24467c2d6307d{padding:20px 14px}.love-letter.jsx-a2e24467c2d6307d{grid-template-columns:1fr;gap:44px;padding:40px 24px 48px}.family-photo-wrap.jsx-a2e24467c2d6307d{width:min(88%,320px)}}'
             }, void 0, false, void 0, this)
         ]
     }, void 0, true, {

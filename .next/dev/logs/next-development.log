@@ -1,3 +1,8 @@
 {"timestamp":"00:00:01.028","source":"Server","level":"LOG","message":""}
 {"timestamp":"00:00:01.029","source":"Server","level":"LOG","message":"✓ Generated AGENTS.md and CLAUDE.md for AI agents. Set `agentRules: false` in next.config to disable."}
 {"timestamp":"00:00:37.021","source":"Server","level":"LOG","message":"✓ Compiled in 42ms"}
+{"timestamp":"00:07:38.355","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
+{"timestamp":"00:07:52.690","source":"Server","level":"LOG","message":"✓ Compiled in 16ms"}
+{"timestamp":"00:08:10.768","source":"Server","level":"LOG","message":"✓ Compiled in 29ms"}
+{"timestamp":"00:08:32.814","source":"Server","level":"LOG","message":"✓ Compiled in 40ms"}
+{"timestamp":"00:08:58.636","source":"Server","level":"LOG","message":"✓ Compiled in 17ms"}
