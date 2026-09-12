@@ -2,7 +2,7 @@ function Home(){
     return (
         <>
             <h1>Lana, amor da minha vida❤️</h1>
-            <p>Cada dia ao seu lado é um presente que transforma a minha vida. Seu sorriso ilumina meus dias e seu carinho é meu porto seguro. Te amo hoje, amanhã e para todo o sempre! ✨</p>
+            <p>Hoje, 11/09/2026, nós completamos 26 anos de casamento. Quando olho para trás e vejo tudo o que já enfrentamos, tudo o que passamos juntos, momentos bons, momentos difíceis, momentos felizes e outros tristes, mas em tudo o Senhor nos sustentou e nos guiou! Amo ovcê de todo o meu amor e coração! ✨</p>
         </>
     )
 }
